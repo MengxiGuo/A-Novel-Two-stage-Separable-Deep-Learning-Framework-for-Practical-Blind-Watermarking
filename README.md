@@ -11,7 +11,7 @@ PyTorch 0.4 or newer
 # Training and Testing
 the training and testing codes will coming soon.
 
-# Cite
+# Citation
 ```
 @inproceedings{liu2019novel,
   title={A Novel Two-stage Separable Deep Learning Framework for Practical Blind Watermarking},
