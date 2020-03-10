@@ -2,7 +2,7 @@
 The codes for the paper "A Novel Two-stage Separable Deep Learning Framework for Practical Blind Watermarking" 
 
 # Method
-
+![avatar](https://github.com/MengxiGuo/A-Novel-Two-stage-Separable-Deep-Learning-Framework-for-Practical-Blind-Watermarking/blob/master/sample%20images/method.png)
 
 # Requirements
 Python 3
