@@ -12,6 +12,7 @@ PyTorch 0.4 or newer
 the training and testing codes will coming soon.
 
 # Cite
+```
 @inproceedings{liu2019novel,
   title={A Novel Two-stage Separable Deep Learning Framework for Practical Blind Watermarking},
   author={Liu, Yang and Guo, Mengxi and Zhang, Jian and Zhu, Yuesheng and Xie, Xiaodong},
@@ -19,3 +20,4 @@ the training and testing codes will coming soon.
   pages={1509--1517},
   year={2019}
 }
+```
