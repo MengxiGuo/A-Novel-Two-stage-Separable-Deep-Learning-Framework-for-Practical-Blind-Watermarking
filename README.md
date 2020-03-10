@@ -5,7 +5,9 @@ The codes for the paper "A Novel Two-stage Separable Deep Learning Framework for
 ![avatar](https://github.com/MengxiGuo/A-Novel-Two-stage-Separable-Deep-Learning-Framework-for-Practical-Blind-Watermarking/blob/master/sample%20images/method.png)
 
 # Performance
-
+![avatar](https://github.com/MengxiGuo/A-Novel-Two-stage-Separable-Deep-Learning-Framework-for-Practical-Blind-Watermarking/blob/master/sample%20images/performance1.png)
+![avatar](https://github.com/MengxiGuo/A-Novel-Two-stage-Separable-Deep-Learning-Framework-for-Practical-Blind-Watermarking/blob/master/sample%20images/performance2.png)
+![avatar](https://github.com/MengxiGuo/A-Novel-Two-stage-Separable-Deep-Learning-Framework-for-Practical-Blind-Watermarking/blob/master/sample%20images/performance3.png)
 
 # Requirements
 Python 3
